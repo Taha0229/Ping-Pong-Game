@@ -2,8 +2,8 @@
 A ping pong game written in python using turtle.
 
 <h1>How to run?</h1>
-1. Clone the project into your local machine and run the main function or
-2. Run it on replit - <a href="">Replit link</a>
+1. Clone the project into your local machine and run the main function or <br>
+2. Run it on replit - <a href="https://replit.com/@Sheikh-TahaTaha/Ping-Pong-Game?v=1">Replit link</a>
 
 <h1>Screenshots of the program-</h1>
 ![image](https://github.com/Taha0229/Ping-Pong-Game/assets/113607983/dd5983a8-bf24-42ee-b91c-fc58b189c5aa)
